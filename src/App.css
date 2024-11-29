@@ -1,0 +1,10 @@
+body {
+  background-color: #e9ecef;
+}
+.game-container {
+  max-width: 360px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
